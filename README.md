@@ -7,7 +7,7 @@
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
-  <a href="https://www.deepseek.com/" target="_blank" style="margin: 2px;">
+  <a href="https://www.deepseek.com/" target="_blank" style="margin: 2px;"> 
     <img alt="Homepage" src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true" style="display: inline-block; vertical-align: middle;"/>
   </a>
   <a href="https://chat.deepseek.com/" target="_blank" style="margin: 2px;">
